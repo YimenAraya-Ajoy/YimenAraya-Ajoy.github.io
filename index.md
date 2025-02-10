@@ -3,7 +3,7 @@ layout: home
 title: "MAEE"
 author_profile: true
 
----  
+--- 
 
 ##  Understanding Adaptation in a Changing World  
 
