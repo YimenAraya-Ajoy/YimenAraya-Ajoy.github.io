@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Research track record"
-permalink: \Publications\
+permalink: /Publications/
 ---
 
 My publications demonstrate a strong record of high-quality research in
 the fields of evolutionary and behavioral ecology, and my citation and
 publication rates are increasing
-([](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ)). I
+\[](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ). I
 have published **\>50 papers** in peer reviewed journals. My work has
 attracted **\>3300 citations**, has an **h-index of 25** and **i10-index
 of 43**.
