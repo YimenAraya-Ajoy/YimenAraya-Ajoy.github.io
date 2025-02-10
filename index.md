@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "MAEE"
-permalink: \\
+permalink: /
 ---
 
 ##  Understanding Adaptation in a Changing World  
