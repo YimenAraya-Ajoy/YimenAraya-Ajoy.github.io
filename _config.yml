@@ -1,0 +1,34 @@
+
+# Build settings
+
+title: Multilevel Animal Evolutionary Ecology
+description: "A website showcasing my research, publications, and projects."
+baseurl: "" 
+url: "https://YourGitHubUsername.github.io" 
+
+theme: minima
+
+# Author Information
+author:
+avatar: "/assets/images/Pic.jpg"
+email: yimencr@gmail.com
+twitter_username: ArayaYimen
+github_username:  YimenAraya-Ajoy
+
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
+      nav_exclude: true
+
+# Enable Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown Processing
+markdown: kramdown
+highlighter: rouge
