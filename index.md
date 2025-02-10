@@ -1,8 +1,9 @@
 ---
-layout: home
-title: "MAEE"
+layout: single
+title: "MAE"
 author_profile: true
-
+permalink: /
+classes: wide
 --- 
 
 ##  Understanding Adaptation in a Changing World  
