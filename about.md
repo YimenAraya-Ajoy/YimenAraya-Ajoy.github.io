@@ -1,15 +1,16 @@
 ---
 layout: page
 title: "About Me"
-permalink:
+permalink:/about/
 ---
 
 <div style="display: flex; align-items: center;">
   <img src="/assets/images/Pic.jpg" alt="Description" style="width: 30%; margin-right: 20px;">
   <p>
- I am a researcher in the Norwegian University of Science and Technology.
+ I am a researcher in the Norwegian University of Science and Technology. <a href="{{ site.baseurl }}/assets/files/CV.pdf" download>Download CV</a>
  </p>
 </div>
+
 
 
 My research has addressed fundamental evolutionary questions through an
@@ -19,7 +20,7 @@ contributed to empirical, methodological, and theoretical advancements
 in evolutionary ecology. This has resulted in 53 peer-reviewed
 publications, attracting over 3,300 citations, with both publication and
 citation rates continuing to rise
-([](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ)). I
+\[Scholar](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ). I
 have secured over \$1 million in funding as PI and Co-PI and worked on
 diverse study systems across tropical, temperate, and Arctic regions. If
 given the opportunity, I expect to keep producing high-quality research
