@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "MAE"
 author_profile: true
 permalink: /
