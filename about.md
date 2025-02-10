@@ -12,7 +12,6 @@ permalink:/about/
 </div>
 
 
-
 My research has addressed fundamental evolutionary questions through an
 integrative approach that bridges behavioral ecology, quantitative
 genetics, and population ecology. Over the course of my career, I have
