@@ -91,8 +91,8 @@ analyses. My project aimed to understand how evolutionary processes
 shape population demography, specifically whether differences among
 populations result from selective pressures on individuals. The study
 system was a Norwegian meta-population of house sparrows (*Passer
-domesticus*) where individual life histories have been monitored since
-1998. I developed individual-level metrics for life histories, such as
+domesticus*) where individual life histories have been monitored since 1998. 
+I developed individual-level metrics for life histories, such as
 generation time, and estimated their heritability to assess evolutionary
 potential
 \[[15](https://link.springer.com/article/10.1007/s00265-018-2477-7),
@@ -142,12 +142,12 @@ dataset on individual life histories of house sparrows where we have
 been unraveling the genetic and environmental drivers of morphological
 divergence \[[23](https://doi.org/10.1111/evo.13668)\], dispersal
 \[[24]( https://doi.org/10.1111/1365-2656.13580)\], and fitness
-\[[16](https://doi.org/10.1111/ele.13835), [25]{style="color: blue"}\].
+\[[16](https://doi.org/10.1111/ele.13835), [25].
 
 While much of this research is ongoing, we have already begun extending
 our findings to explore how social interactions modulate the effects of
-stochasticity on population vulnerability to climate change
-\[[25]{style="color: blue"}\]. This integrative approach positions our
-work at the forefront of eco-evolutionary research, with implications
-for understanding species resilience in rapidly changing environments.
+stochasticity on population vulnerability to climate change [25]. 
+This integrative approach positions our work at the forefront 
+of eco-evolutionary research, with implications for understanding species 
+resilience in rapidly changing environments.
 
