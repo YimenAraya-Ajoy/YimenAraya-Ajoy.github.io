@@ -7,7 +7,7 @@ permalink:
 <div style="display: flex; align-items: center;">
   <img src="/assets/images/Pic.jpg" alt="Description" style="width: 30%; margin-right: 20px;">
   <p>
- I am a researcher in the Norwegian University of Science and Technology. <a href="{{ site.baseurl }}/assets/files/CV.pdf" download>Download CV</a>
+ I am a researcher in the Norwegian University of Science and Technology.
  </p>
 </div>
 
