@@ -1,8 +1,14 @@
 ---
 layout: home
+title: "MAEE"
+permalink: \
+---
+---
+layout: home
 title: "MAE"
 author_profile: true
 permalink: /
+classes: wide
 --- 
 
 ##  Understanding Adaptation in a Changing World  
