@@ -1,6 +1,8 @@
 ---
-title: "MAEE"
+layout: home
+title: "Our goals"
 permalink: /
+nav_order: 1
 ---
 
 ##  Understanding Adaptation in a Changing World  
@@ -20,5 +22,8 @@ By synthesizing:
 - **Projection techniques** from evolutionary demography,  
 
 I seek to advance our understanding of **eco-evolutionary dynamics in a rapidly changing world**.  
+
+
+
 
 
