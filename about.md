@@ -1,8 +1,18 @@
 ---
 layout: page
-title: "About Me"
-permalink:/about/
+title: "About us"
+permalink: \about\
 ---
+
+
+**Yimen Araya Ajoy**
+<div style="display: flex; align-items: center;">
+  <img src="/assets/images/Pic.jpg" alt="Description" style="width: 30%; margin-right: 20px;">
+  <p>
+ I am a researcher in the Norwegian University of Science and Technology.
+ </p>
+</div>
+<br><br>
 
 My research has addressed fundamental evolutionary questions through an
 integrative approach that bridges behavioral ecology, quantitative
