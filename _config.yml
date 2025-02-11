@@ -1,7 +1,6 @@
-
 # Build settings
 
-title: Multilevel Animal Evolutionary Ecology
+title: Multilevel Animal Evolutionary Ecology (MAEE)
 description: "A website showcasing my research, publications, and projects."
 baseurl: "" 
 url: "https://YourGitHubUsername.github.io" 
@@ -15,7 +14,12 @@ email: yimencr@gmail.com
 twitter_username: ArayaYimen
 github_username:  YimenAraya-Ajoy
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
+    
 defaults:
   - scope:
       path: ""
