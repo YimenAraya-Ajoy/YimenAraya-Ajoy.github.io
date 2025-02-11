@@ -25,9 +25,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: home
-      nav_exclude: true
-
+    
 # Enable Plugins
 plugins:
   - jekyll-seo-tag
