@@ -1,6 +1,6 @@
 # Build settings
 
-title: Multilevel Animal Evolutionary Ecology (MAEE)
+title: Multilevel Animal Evolutionary Ecology --MAEE lab--
 description: "A website showcasing my research, publications, and projects."
 baseurl: "" 
 url: "https://YourGitHubUsername.github.io" 
@@ -25,6 +25,7 @@ defaults:
       path: ""
       type: pages
     values:
+      layout: page
     
 # Enable Plugins
 plugins:

@@ -2,7 +2,6 @@
 layout: home
 title: "Our goals"
 permalink: /
-nav_order: 1
 ---
 
 ##  Understanding Adaptation in a Changing World  
