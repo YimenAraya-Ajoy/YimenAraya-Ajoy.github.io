@@ -1,14 +1,12 @@
 # Build settings
 
-title: Multilevel Animal Evolutionary Ecology --MAEE lab--
-description: "A website showcasing my research, publications, and projects."
+title: MAEE LAB
+description: "Here you can find my research, publications, and teaching portfolio."
 baseurl: "" 
 url: "https://YourGitHubUsername.github.io" 
 
-theme: minima
-
 # Author Information
-author:
+author: Yimen Araya Ajoy
 avatar: "/assets/images/Pic.jpg"
 email: yimencr@gmail.com
 twitter_username: ArayaYimen
@@ -35,3 +33,4 @@ plugins:
 # Markdown Processing
 markdown: kramdown
 highlighter: rouge
+mathjax: true

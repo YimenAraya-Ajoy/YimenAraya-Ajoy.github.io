@@ -1,28 +1,12 @@
 ---
 layout: page
-title: "Research track record"
+title: "Publications"
 permalink: /record/
 nav_order: 4
 
 ---
 
-My publications demonstrate a strong record of high-quality research in
-the fields of evolutionary and behavioral ecology, and my citation and
-publication rates are increasing
-\[](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ). I
-have published **\>50 papers** in peer reviewed journals. My work has
-attracted **\>3300 citations**, has an **h-index of 25** and **i10-index
-of 43**.
-
-I preferentially publish in journals run by scientific societies, and
-hence some of the profits return to the scientific community.
-Accordingly, my papers include: 6 in Evolution and Behavioural Ecology,
-5 in Methods in Ecology and Evolution and Proc. B, 3 in Journal of
-Animal Ecology, 2 in Ecology Letters, and 1 in PNAS, Animal Behavior,
-American Naturalist, Functional Ecology and Evolution Letters.
-
-Here, I highlight 15 **selected publications** describing my
-theoretical, methodological and empirical contributions.
+We preferentially publish in journals run by scientific societies, and hence some of the profits return to the scientific community. Here, we highlight 15 **selected publications** describing our theoretical, methodological and empirical contributions.
 
 **Empirical**
 
@@ -62,7 +46,7 @@ theoretical, methodological and empirical contributions.
     its among- and within-individual components, [[Evolution
     2023]{.underline}](https://doi.org/10.1093/evolut/qpad136).
 
--   7\) Murray M.^\*^, Wright, J., **Araya-Ajoy Y.G.** Evolutionary
+-   7\) **Murray M.**, Wright, J., **Araya-Ajoy Y.G.** Evolutionary
     rescue from climate change: male indirect genetic effects on
     lay-dates and their consequences for population persistence,
     [[Evolution Letters,

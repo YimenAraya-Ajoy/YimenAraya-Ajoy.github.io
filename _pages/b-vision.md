@@ -1,54 +1,10 @@
 ---
 layout: page
-title: "Research vision"
+title: "Projects"
 permalink: /vision/
 nav_order: 3
 ---
 
-## A general view 
-
-My research focuses on developing general frameworks that are adaptable
-to specific study systems, ensuring broad theoretical insights have
-practical applications. I am committed to open science, prioritizing
-transparency, inclusivity, and equitable access to resources. To support
-this, I preferentially publish in society-run journals that reinvest
-profits into the scientific community and rely on open-source software
-to enhance reproducibility and accessibility. Through international
-collaborations, innovative methodologies, and knowledge-sharing
-initiatives, I aim to advance fundamental research while ensuring its
-broad applicability and impact.
-
-My research integrates empirical, methodological, and theoretical
-advancements in evolutionary ecology. Grounded in robust theoretical
-frameworks my work combines analytical theory, individual-based and
-statistical simulations, with detailed analyses of long-term
-individual-based data using flexible programming languages like R and
-Stan. This diverse toolkit not only strengthens research but also
-enhances my teaching portfolio.
-
-## The Challenge and the Knowledge Gaps
-
-Habitats are increasingly being lost and fragmented, and the climate is
-changing at unprecedented rates. Predicting population responses to
-these environmental changes is one of the most pressing challenges in
-biology. Addressing this challenge requires a deep understanding of the
-demographic consequences of gene-environment interactions and how these
-are modulated by behavioral plasticity.
-
-Evolutionary biology has developed powerful theoretical and quantitative
-tools to study adaptation, yet a lack of integration across ecological
-and evolutionary disciplines limits our understanding of how phenotypic
-evolution affects population dynamics. My research aims to bridge this
-gap by integrating behavioral ecology, quantitative genetics, and
-evolutionary demography exploiting their complementary perspectives on
-adaptation. By synthesizing optimality theory from behavioral ecology,
-quantitative genetic models of evolutionary responses to selection, and
-projection techniques from evolutionary demography, I am uniquely
-positioned to advance our understanding of eco-evolutionary dynamics in
-changing environments. Here, I will detail how my research has aimed at
-integrating these fields and how, through working at their interface, I
-have identified emerging research areas that form the basis of my
-current and future research agenda.
 
 ## Socio-Eco-Evo Dynamics
 
@@ -66,12 +22,12 @@ Since my PhD, I have contributed to integrating behavioral ecology and
 quantitative genetics to study evolution in a social context. Based on
 this work, I identified key assumptions of quantitative genetic models
 that precluded studying its consequences on population dynamics. As part
-of my postdoctoral work I thus combined quantitative genetics models of
+of our postdoctoral work I thus combined quantitative genetics models of
 social evolution with evolutionary demography to address this gap. This
-work laid the foundation for my current work aiming to understand how
+work laid the foundation for our current work aiming to understand how
 phenotypic evolution affects population growth rates, and how these
 changes can feeback to modify selection pressures through its effects on
-competitive regimes (eco-evolutionary feedabacks). My current work is
+competitive regimes (eco-evolutionary feedabacks). Our current work is
 funded on a young research talent grant from NFR, that is aimed to
 understand the social factors that shape the eco-evolutionary dynamics
 of populations and its long term persistence.
@@ -105,9 +61,10 @@ stochastic population dynamics will allow deriving general principles to
 understand natural populations but may also help guide the development
 of environmental policy.
 
+
 ## Eco-evolutionary dynamics of variation 
 
-My next long-term research direction stems from working at the interface
+Our next long-term research direction stems from working at the interface
 of population ecology, quantitative genetics, and behavioral ecology.
 Through this work, I have come to recognize that these disciplines often
 take distinct and somewhat disconnected approaches to studying the
@@ -121,28 +78,20 @@ ecosystems. Eco-evolutionary feedbacks emerge from interactions across
 these hierarchical levels, yet different subfields of evolutionary
 ecology tend to focus on specific levels in isolation. Addressing this
 challenge requires integrating insights from across these disciplines.
-My expertise in developing and applying hierarchical modeling positions
+Our expertise in developing and applying hierarchical modeling positions
 me strongly to tackle these questions, as it provides a rigorous
 framework for quantifying phenotypic variation at multiple levels and
-linking it to ecological and evolutionary processes. My previous work
-has successfully bridged such gaps, demonstrating my ability to address
+linking it to ecological and evolutionary processes. Our previous work
+has successfully bridged such gaps, demonstrating our ability to address
 complex interdisciplinary questions. Building on this foundation, and
 with the support of outstanding academic fellows at NTNU, I am currently
 developing a European Research Council (ERC) grant proposal on the
 eco-evolutionary dynamics of phenotypic variation.
 
-## Towards a more integrative evolutionary ecology 
-An overarching goal of my research is to advance a more integrative
-approach to evolutionary ecology. By working at the interface of
-behavioral ecology, quantitative genetics, and evolutionary demography,
-I aim to bridge disciplinary gaps and develop a comprehensive
-understanding of eco-evolutionary dynamics. Addressing the challenges
-posed by rapid environmental change requires international
-collaboration, as ecological and evolutionary processes operate across
-broad spatial and temporal scales. My research is embedded within a
-global network of collaborators, allowing me to integrate diverse study
-systems and methodological approaches to generate broadly applicable
-insights. I am excited about the opportunity to bring this research
-agenda to Uppsala University, contributing to its strong tradition of
-evolutionary ecology while fostering international partnerships that are
-essential for tackling pressing global challenges.
+## Collective resilience
+
+
+## SQuID
+
+
+## K-landscapes
