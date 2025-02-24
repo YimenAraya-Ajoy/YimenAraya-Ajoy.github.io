@@ -17,10 +17,8 @@ publications, attracting over 3,300 citations, with both publication and
 citation rates continuing to rise
 \[[Scholar](https://scholar.google.com/citations?hl=en&user=q4pwMVIAAAAJ)]. I
 have secured over \$1 million in funding as PI and Co-PI and worked on
-diverse study systems across tropical, temperate, and Arctic regions. If
-given the opportunity, I expect to keep producing high-quality research
-at Upssala University using the feedback between statistics, theory and
-fieldwork as the core of my work.
+diverse study systems across tropical, temperate, and Arctic regions. 
+
 
 **Education in Costa Rica**
 
@@ -42,6 +40,12 @@ I was selected from a highly competitive, global applicant pool to join
 the International Max Planck Research School of Organismal Biology, with
 funding from the MPIO and a PhD grant awarded by the German Academic
 Exchange Service.
+
+
+![Research Image1](/assets/images/phaeno.png){: style="width: 80%; display: block; margin: auto;"}
+
+
+
 
 **PhD in Max Planck Institute (Germany)**
 
@@ -147,6 +151,6 @@ dataset on individual life histories of house sparrows where we have
 been unraveling the genetic and environmental drivers of morphological
 divergence \[[23](https://doi.org/10.1111/evo.13668)\], dispersal
 \[[24]( https://doi.org/10.1111/1365-2656.13580)\], and fitness
-\[[16](https://doi.org/10.1111/ele.13835), [25].
+\[[16](https://doi.org/10.1111/ele.13835), 25].
 
 

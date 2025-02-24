@@ -26,13 +26,6 @@ I’m studying how density-dependent processes shape individual variation in phe
 <br>
 
 *Myranda Murray*
-<div style="display: flex; align-items: center;">
-  <img src="/assets/images/Tor_Pic.jpg" alt="Description" style="width: 100%; margin-right: 20px;">
-  <p>
-I’m studying how density-dependent processes shape individual variation in phenotypes related to population growth rates across space and time in small, fragmented populations. I primarily work with a long-term study on a metapopulation of house sparrows spread across multiple islands in an archipelago in northern Norway. 
-</p>
-</div>
-<br>
 
 
 **Master students**
