@@ -10,7 +10,7 @@ We preferentially publish in journals run by scientific societies, and hence som
 
 **Empirical**
 
--   1\) **Araya-Ajoy, Y. G.**, Frank, T. H., Burnett, H., Søraker, J.
+-   1\) **Araya-Ajoy, Y. G.**, **Frank, T. H**., Burnett, H., Søraker, J.
     S., Ranke, P. S., Goedert, D., Ringsby, T.-H., Jensen, H., & Sæther,
     B.-E. Assessing the \"Small Population\" Paradigm: The Effects of
     Stochasticity on Evolutionary Change and Population Growth in a Bird
@@ -40,17 +40,18 @@ We preferentially publish in journals run by scientific societies, and hence som
 
 **Theoretical and conceptual**
 
--   6\) **Araya-Ajoy Y. G.**, Dingemanse, N. J., Westneat D., Wright, J.
-    The evolutionary ecology of variation in labile traits: selection on
-    its among- and within-individual components, [[Evolution
-    2023]](https://doi.org/10.1093/evolut/qpad136).
-
--   7\) **Murray M.**, Wright, J., **Araya-Ajoy Y.G.** Evolutionary
+-   6\) **Murray M.**, Wright, J., **Araya-Ajoy Y.G.** Evolutionary
     rescue from climate change: male indirect genetic effects on
     lay-dates and their consequences for population persistence,
     [[Evolution Letters,
     2023]](https://doi.org/10.1093/evlett/qrad022).
-    \*Current PhD student.
+  
+  
+-   7\) **Araya-Ajoy Y. G.**, Dingemanse, N. J., Westneat D., Wright, J.
+    The evolutionary ecology of variation in labile traits: selection on
+    its among- and within-individual components, [[Evolution
+    2023]](https://doi.org/10.1093/evolut/qpad136).
+
 
 -   8\) **Araya-Ajoy, Y. G.**, Westneat, D., Wright, J. Pathways to
     social evolution and their eco-evolutionary feedbacks, [[Evolution,
