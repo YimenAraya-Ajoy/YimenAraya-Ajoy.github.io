@@ -13,33 +13,50 @@ nav_order: 7
 </script>
 
 
+We have international collaboration network connecting Europe and the Americas. Below is a map where we depict the institutions were there are researchers whom we have coauthored more than three papers.
+
+<img src="/assets/images/Map.png" style="width:100%; height:auto;">
+
+
+### Mentors
+
 Bernt-Erik Saether
-
-
-Gloriana Chaverri
-
 
 Jonathan Wright
 
+Niels Dingemanse
+
+Dave Westneat
+
+Gilbert Barrantes
+
+
+### Established researchers
+
+Gloriana Chaverri
+
+Denis Reale
+
+Ned Dochtermann
+
+Henrik Jensen
+
+
+### Early carreer researchers
 
 Joel Pick
 
 
-Niels Dingemase
+Luis Sandoval
 
 
-SQuID
+Paul Acker
 
 
-Jorgen
+Maria Moiron
 
 
-Rori
+Barbara Class
 
 
-Corne
-
-
-$$
-h^2
-$$
+Jordan Martin
