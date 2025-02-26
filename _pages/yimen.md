@@ -86,11 +86,6 @@ peer-reviewed articles \[[11](https://doi.org/10.1111/2041-210X.12659),
 [14](https://doi.org/10.1111/2041-210X.14200)\].
 
 
-![Research Image1](/assets/images/YiTits.png){: style="width: 30%; display: block; margin: auto;"}
-
-
-
-
 **Postdoc in the Centre for biodiversity dynamics**
 
 For my second postdoc, I joined the Centre for Biodiversity Dynamics at

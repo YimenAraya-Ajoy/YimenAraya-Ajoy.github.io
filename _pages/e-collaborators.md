@@ -13,45 +13,33 @@ nav_order: 7
 </script>
 
 
-### Mentors
-
 Bernt-Erik Saether
 
-Jonathan Wright
-
-Niels Dingemanse
-
-Dave Westneat
-
-Gilbert Barrantes
-
-
-### Established researchers
 
 Gloriana Chaverri
 
-Denis Reale
 
-Ned Dochtermann
+Jonathan Wright
 
-Henrik Jensen
-
-
-### Early carreer researchers
 
 Joel Pick
 
 
-Luis Sandoval
+Niels Dingemase
 
 
-Paul Acker
+SQuID
 
 
-Maria Moiron
+Jorgen
 
 
-Barbara Class
+Rori
 
 
-Jordan Martin
+Corne
+
+
+$$
+h^2
+$$
